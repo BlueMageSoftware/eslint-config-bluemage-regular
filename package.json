@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-bluemage-regular",
+  "version": "1.0.0",
+  "description": "Blue Mage Software ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueMageSoftware/eslint-config-bluemage-regular.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "dependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb-base": "5.0.3",
+    "eslint-plugin-import": "^1.14.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.2.0"
+  },
+  "author": "Blue Mage Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueMageSoftware/eslint-config-bluemage-regular/issues"
+  },
+  "homepage": "https://github.com/BlueMageSoftware/eslint-config-bluemage-regular#readme"
+}
